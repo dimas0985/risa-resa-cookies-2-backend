@@ -1,5 +1,6 @@
 const API_URL = import.meta.env.VITE_API_URL || "https://risa-resa-cookies-2-backend-production.up.railway.app";
 const productImages = {
+  // ... sisa kode kamu di bawahnya tetap sama
   almondCookiesRombutter: 'Almond-Cookies-Rombutter.jpg',
   chocoChipRombutter: 'Choco-Chip-Rombutter.jpg',
   coklatMedeRombutter: 'Coklat-Mede-Rombutter.jpg',
